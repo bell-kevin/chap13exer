@@ -12,46 +12,72 @@ Submission: Please take and submit .png screenshots showing your working code ru
 
 ## 13.1
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.1.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.1B.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.1C.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.1D.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.1E.PNG)
 
 ## 13.2
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.2.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.2B.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.2C.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.2D.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.2E.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.2F.PNG)
 
 ## 13.3
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.3.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.3B.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.3C.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.3D.PNG)
 
 ## 13.4
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.4.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.4B.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.4C.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.4D.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.4E.PNG)
 
 ## 13.5
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.5.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.5b.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.5C.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.5D.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.5E.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.5F.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.5G.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.5H.PNG)
 
 ## 13.6
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.6.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.6B.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.6C.PNG)
+
 ![p](https://github.com/bell-kevin/chap13exer/blob/main/chap13exer/screenshots/13.6D.PNG)
 
 
